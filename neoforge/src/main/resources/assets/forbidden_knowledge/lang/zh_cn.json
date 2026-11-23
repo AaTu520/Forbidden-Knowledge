@@ -1,0 +1,16 @@
+{
+  "item.forbidden_knowledge.forbidden_knowledge": "禁忌学识",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_flavor": "封禁的古籍，记载旧日的失传技艺",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_use": "使用锻造台使用，获得一项职业属性加成",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_cost": "每次强化消耗1%s与",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_point": "注灵",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_penetration": "记载着禁忌的法术贯通属性",
+  "tooltip.forbidden_knowledge.soul": "注灵：%s",
+  "tooltip.forbidden_knowledge.attribute.fire": "火焰法术强度",
+  "tooltip.forbidden_knowledge.attribute.arcane": "奥秘法术强度",
+  "tooltip.forbidden_knowledge.attribute.frost": "寒冰法术强度",
+  "tooltip.forbidden_knowledge.attribute.ranged_damage": "远程伤害",
+  "tooltip.forbidden_knowledge.attribute.healing": "治疗强度",
+  "attribute.name.forbidden_knowledge.spell_penetration": "法术贯通",
+  "tooltip.forbidden_knowledge.attribute.spell_penetration": "法术贯通"
+}

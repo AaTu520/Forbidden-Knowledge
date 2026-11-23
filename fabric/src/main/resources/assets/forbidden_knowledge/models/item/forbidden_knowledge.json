@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "forbidden_knowledge:item/forbidden_knowledge"
+  }
+}
+

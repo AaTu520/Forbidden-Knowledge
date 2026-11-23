@@ -1,0 +1,16 @@
+{
+  "item.forbidden_knowledge.forbidden_knowledge": "Forbidden Knowledge",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_flavor": "A sealed tome of lost arts from ages past",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_use": "Use at a smithing table to gain one class attribute bonus",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_cost": "Each enhancement consumes 1 %s and ",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_point": "infusion",
+  "item.forbidden_knowledge.forbidden_knowledge.lore_penetration": "Records the forbidden art of spell penetration",
+  "tooltip.forbidden_knowledge.soul": "Infusion: %s",
+  "tooltip.forbidden_knowledge.attribute.fire": "Fire Spell Power",
+  "tooltip.forbidden_knowledge.attribute.arcane": "Arcane Spell Power",
+  "tooltip.forbidden_knowledge.attribute.frost": "Frost Spell Power",
+  "tooltip.forbidden_knowledge.attribute.ranged_damage": "Ranged Damage",
+  "tooltip.forbidden_knowledge.attribute.healing": "Healing Power",
+  "attribute.name.forbidden_knowledge.spell_penetration": "Spell Penetration",
+  "tooltip.forbidden_knowledge.attribute.spell_penetration": "Spell Penetration"
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "forbidden_knowledge",
+  "version": "${version}",
+  "name": "禁忌学识",
+  "description": "使用禁忌学识在锻造台强化 RPG Series 法杖、弓和弩，并提供法术贯通属性。禁忌学识仅由玩家击杀达到配置生命值门槛的生物掉落。",
+  "authors": [
+    "AaTu"
+  ],
+  "license": "GPL-3.0",
+  "icon": "assets/forbidden_knowledge/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.blockforge.forbidden_knowledge.ForbiddenKnowledgeMod"
+    ],
+    "client": [
+      "cn.blockforge.forbidden_knowledge.ForbiddenKnowledgeClient"
+    ]
+  },
+  "mixins": [
+    "forbidden_knowledge.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.3",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "spell_engine": ">=1.10.0",
+    "spell_power": ">=1.6.0",
+    "ranged_weapon_api": ">=3.0.0",
+    "aatu_exup": ">=1.0.5"
+  },
+  "suggests": {
+    "jei": "*",
+    "paladins": ">=3.1.1",
+    "archers": ">=3.1.1",
+    "wizards": ">=3.1.1"
+  }
+}

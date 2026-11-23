@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "cn.blockforge.forbidden_knowledge.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "PlayerMixin"
+  ],
+  "client": [
+    "client.SmithingScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+

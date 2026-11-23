@@ -1,0 +1,14 @@
+.gradle/
+build/
+out/
+run/
+run-*/
+logs/
+crash-reports/
+.idea/
+*.iml
+*.log
+*.class
+local.properties
+libs/
+.env
